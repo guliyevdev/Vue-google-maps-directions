@@ -10,4 +10,5 @@ In the project directory, you can run:
 npm install
 npm run serve
 ```
+GIF SHOW
 ![](https://github.com/guliyevdev/Vue-google-maps-directions/blob/main/Welcome.gif)
