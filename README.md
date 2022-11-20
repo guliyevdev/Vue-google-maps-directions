@@ -9,3 +9,5 @@ In the project directory, you can run:
 ```
 npm install
 npm run serve
+```
+![](https://github.com/Vue-google-maps-directions/Welcome.gif)
