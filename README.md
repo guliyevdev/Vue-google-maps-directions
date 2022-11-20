@@ -10,4 +10,4 @@ In the project directory, you can run:
 npm install
 npm run serve
 ```
-![](https://github.com/Vue-google-maps-directions/Welcome.gif)
+![](https://github.com/guliyevdev/Vue-google-maps-directions/blob/main/Welcome.gif)
