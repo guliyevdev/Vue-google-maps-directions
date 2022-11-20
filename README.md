@@ -3,9 +3,7 @@ Measure the distance between two cities with vue.js
 
 ## Starting the app
 
-First open map.vue and put your key in the api button.
-In the project directory, you can run:
-
+First, open map.vue and paste your key. In the project directory you can run:
 ```
 npm install
 npm run serve
